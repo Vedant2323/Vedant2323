@@ -51,10 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant2323&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
 </p>
 
-<!-- Trophies Card -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vedant2323&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
 
 <!-- Activity Graph -->
 <p align="center">
