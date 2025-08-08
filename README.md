@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+Learner;Full-Stack+Developer;Cloud+%26+DevOps+Explorer;Cybersecurity+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing Animation" />
 </p>
 
-
-
 ---
 
 ## 💡 About Me  
@@ -41,8 +39,6 @@
 
 ---
 
-
-
 ## 📈 GitHub Stats  
 
 <p align="center">
@@ -50,6 +46,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2323&theme=tokyonight" height="180"/>
 </p>
 
+<!-- Most Used Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant2323&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
+
+<!-- Trophies Card -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vedant2323&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant2323&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
