@@ -10,7 +10,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USERNAME" alt="Vedant's Avatar" width="150" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/Vedant2323" alt="Vedant's Avatar" width="150" style="border-radius: 50%;"/>
 </p>
 
 ---
