@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+and+DevOps+Explorer;Cybersecurity+Learner;Open-Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+Learner;Full-Stack+Developer;Cloud+%26+DevOps+Explorer;Cybersecurity+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing Animation" />
 </p>
 
 <!-- Profile Picture -->
@@ -15,13 +15,13 @@
 
 ---
 
-## 🚀 About Me  
+## 💡 About Me  
 
-- 🎓 **Tech Enthusiast | Problem Solver | Lifelong Learner**  
-- 💻 Currently working on **Full-Stack Projects & Cloud Deployments**  
-- 🌱 Exploring **Cybersecurity** and **DevOps Pipelines**  
-- 🏆 Hackathon Participant & Open-Source Contributor  
-- 🎯 Goal: Build impactful tech that solves real-world problems  
+- 👨‍💻 **Full-Stack Developer** passionate about building scalable and user-friendly applications  
+- 🌱 **Continuous Learner** exploring **Cloud, DevOps, and Cybersecurity**  
+- 🛠️ Love solving real-world problems using technology  
+- 🌍 Open-source contributor and hackathon enthusiast  
+- 🎯 Goal: Combine **technical skills + creativity** to deliver impactful solutions  
 
 ---
 
@@ -30,6 +30,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,docker,aws,git,linux" />
 </p>
+
+---
+
+## 🤝 Soft Skills  
+
+- 🗣 **Excellent Communication** – Conveying complex ideas clearly  
+- 🧠 **Problem-Solving Mindset** – Breaking down challenges into actionable solutions  
+- 🤝 **Team Collaboration** – Thriving in group projects and cross-functional teams  
+- ⏳ **Time Management** – Delivering quality work under deadlines  
+- 🌟 **Adaptability** – Quick learner in fast-changing tech environments  
+- 🎯 **Leadership** – Guiding peers and taking initiative in projects  
 
 ---
 
@@ -56,22 +67,6 @@
 
 ---
 
-## 📜 Certifications  
-
-- 🥇 **AWS Cloud Practitioner** *(In Progress)*  
-- 🎖️ **Full-Stack Web Development Bootcamp**  
-- 🎯 **Python for Data Science**  
-
----
-
-## 📝 Blog & Articles  
-
-- [Blog 1 Title](#)  
-- [Blog 2 Title](#)  
-- *More coming soon...*  
-
----
-
 ## 📬 Connect with Me  
 
 <p align="center">
@@ -85,8 +80,8 @@
 ## ⚡ Fun Facts  
 
 - 💡 I believe **"Every bug is just a feature in disguise"**  
-- 🎮 Gamer at heart, Coder by profession  
-- 🚀 Love building **fast, scalable, and user-friendly applications**  
+- 🎮 Gamer at heart, Coder by passion  
+- 🚀 Love building **fast, scalable, and innovative** applications  
 
 ---
 
