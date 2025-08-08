@@ -42,18 +42,18 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vedant2323&show_icons=true&theme=tokyonight" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2323&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant2323&show_icons=true&theme=tokyonight" height="180" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant2323&theme=tokyonight" height="180" width="400"/>
 </p>
 
-<!-- Most Used Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant2323&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant2323&layout=compact&theme=tokyonight&langs_count=8" height="180" width="400"/>
 </p>
 
+---
 
+## 📊 Contribution Graph  
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant2323&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
