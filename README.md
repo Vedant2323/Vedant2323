@@ -8,10 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+Learner;Full-Stack+Developer;Cloud+%26+DevOps+Explorer;Cybersecurity+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing Animation" />
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Vedant2323" alt="Vedant's Avatar" width="150" style="border-radius: 50%;"/>
-</p>
+
 
 ---
 
@@ -44,15 +41,7 @@
 
 ---
 
-## 📌 Featured Projects  
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **DineIn Ordering System** 🍽️ | Real-time food ordering system with admin dashboard and WebSocket updates | React, Node.js, MongoDB, Express |
-| **Crop Yield Predictor** 🌾 | ML model for predicting crop yields with interactive frontend | Python, Scikit-learn, Flask, React |
-| **Air Quality Monitoring IoT** 🌬️ | IoT-based AQI tracking with ESP32 and live data on Blynk | ESP32, DHT22, MQ7, PM2.5 Sensor |
-
----
 
 ## 📈 GitHub Stats  
 
