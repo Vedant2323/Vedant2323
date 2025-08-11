@@ -10,12 +10,8 @@
 
 ---
 
-## 💡 About Me  
-
-- 👨‍💻 **Full-Stack Developer** passionate about building scalable and user-friendly applications  
-- 🌱 **Continuous Learner** exploring **Cloud, DevOps, and Cybersecurity**  
-- 🛠️ Love solving real-world problems using technology  
-- 🌍 Open-source contributor and hackathon enthusiast  
+## 💡 About Me    
+- 🛠️ Love solving real-world problems using technology   
 - 🎯 Goal: Combine **technical skills + creativity** to deliver impactful solutions  
 
 ---
